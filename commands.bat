@@ -3,5 +3,5 @@ pip install numpy
 echo "Installing imutils"
 pip install imutils
 echo "Installing opencv"
-pip install cv2
+pip install copencv-python
 python BadApple.py --video videos/videoplayback.m4v
