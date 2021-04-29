@@ -1,0 +1,8 @@
+html{
+    position: absolute;
+    background: linear-gradient(to bottom right, #352d2d 30%, #000000 100%);
+}
+button{
+    border-radius: 20px;
+    box-sizing: border-box dotted 2px;
+}
